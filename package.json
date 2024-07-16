@@ -1,0 +1,18 @@
+{
+  "name": "tugaspekanan3_api-automation",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 3 - Api Automation (Sanbercode)",
+  "main": "api-automation_kasir-aja.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "If'al Muhammad Qoyyuma",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "jsonschema": "^1.4.1",
+    "mochawesome": "^7.1.3",
+    "mochawesome-report-generator": "^6.2.0",
+    "supertest": "^7.0.0"
+  }
+}
